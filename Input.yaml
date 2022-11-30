@@ -22,7 +22,7 @@ ANONYMOUS:
     PUMI Write Interval: 2400
     Mesh Model Input File Name: ./Consolidation.dmg
     Write ASCII VTK Files: true
-    PUMI Output File Name: ./result/Consolidation.vtk
+    PUMI Output File Name: ./Consolidation.vtk
     Element Block Associations: [['92', '221'], [Top_Region, Bottom_Region]]
     Side Set Associations: [['24', '213'], [Top_Surface, Bottom_Surface]]
     Node Set Associations: [['24', '213'], [Top_Nodes, Bottom_Nodes]]
